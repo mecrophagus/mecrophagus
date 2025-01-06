@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently becoming the best full stack developer , blockchain entusiast and a truly believer of programming and a bitcoiner
+Full stack developer, lover of JavasSript, amazed by phyton, blockchain entusiast and a truly believer of programming, and a bitcoiner
 
 
 ## 🌐 Socials:
